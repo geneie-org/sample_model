@@ -1,0 +1,5 @@
+[core]
+    remote = dvcstore
+    autostage = true
+['remote "dvcstore"']
+    url = ../dvcstore
