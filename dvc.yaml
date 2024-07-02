@@ -1,0 +1,4 @@
+artifacts:
+  model:
+    path: model/model.pkl
+    type: model
